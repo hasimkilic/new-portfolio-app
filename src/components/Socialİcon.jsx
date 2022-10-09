@@ -8,7 +8,7 @@ function Socialİcon() {
   return (
     <div>
         <div className='text-5xl flex justify-center gap-8 md:gap-20 py-3 text-gray-600 w-full mx-auto'>
-            <a href={gitHub} rel="noopener noreferrer" target="_blank"><AiFillGithub className='text-black hover:opacity-75 hover:scale-110 hover:transition-all hover:ease-linear'/></a>
+            <a href={gitHub} rel="noopener noreferrer" target="_blank"><AiFillGithub className='text-black dark:text-white hover:opacity-75 hover:scale-110 hover:transition-all hover:ease-linear'/></a>
             <a href={twitter} rel="noopener noreferrer" target="_blank"><AiFillTwitterCircle className='text-[#00acee] hover:opacity-75 hover:scale-110 hover:transition-all hover:ease-linear'/></a>
             <a href={linkedin} rel="noopener noreferrer" target="_blank"><AiFillLinkedin className='text-[#0e76a8] rounded hover:opacity-90 hover:scale-110 hover:transition-all hover:ease-linear'/></a>
             <a href={mail} rel="noopener noreferrer" target="_blank"><AiFillMail className='text-[#EF4444] hover:opacity-75 hover:scale-110 hover:transition-all hover:ease-linear'/></a>
