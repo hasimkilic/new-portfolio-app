@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Burtons';
+}
+@font-face {
+  font-family: "burtons";
+  font-family: "burtons-script";
+  src: url('../public/Burtons.otf');
+  src: url('../public/Burtons\ Script.otf');
+}
+
