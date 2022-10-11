@@ -1,18 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 *{
   margin: 0;
   padding:0;
   box-sizing: border-box;
 }
 body{
-  font-family: 'Burtons';
+  font-family: 'Burtons','Inter';
 }
 @font-face {
   font-family: "burtons";
-  font-family: "burtons-script";
   src: url('../public/Burtons.otf');
-  src: url('../public/Burtons\ Script.otf');
 }
 
