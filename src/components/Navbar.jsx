@@ -3,7 +3,7 @@ import {BsFillMoonStarsFill} from 'react-icons/bs'
 
 function Navbar({darkMode,setDarkMode}) {
     const cvDownload = () =>{
-        window.location.href = "https://drive.google.com/file/d/1fnQu776CDFrdbDXnnV3VTVkDany8cBuS/view?usp=share_link"
+        window.location.href = "https://drive.google.com/file/d/1HZxpoMQmI4zztq9u8wt6u7sNHy547LiO/view?usp=share_link"
     }
 return (
     <div>
